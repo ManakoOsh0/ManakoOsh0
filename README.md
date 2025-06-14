@@ -1,6 +1,6 @@
 ## Hi there, I'm Karabo!
 
-- BCom Statistics and Data Science Student interested in Software Engineering and Computer Sciece.
+- Statistics and Data Science Student interested in Software Engineering and Computer Sciece.
 
 - 2025 Goals
 - Finish the odin preoject
